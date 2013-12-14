@@ -2,7 +2,7 @@
 
   $.fn.blurry = function(strength) {
     var image = $(this)[0];
-    var element = $('<canvas/>')[0];
+    var element = $('<canvas>')[0];
     element.width = image.width;
     element.height = image.height;
     
