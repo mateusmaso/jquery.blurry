@@ -20,4 +20,4 @@ $('image').blurry(5);
 
 ## License
 
-Copyright (c) 2012-2014 Mateus Maso. Released under an MIT license.
+Copyright (c) 2013-2014 Mateus Maso. Released under an MIT license.
