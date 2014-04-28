@@ -6,7 +6,7 @@ This library is an extension for jQuery which allows blurring images using canva
 ## Features
 
 * Convert image into canvas.
-* Smooth blurry with strength control. 
+* Smooth ```blurry``` function with strength control. 
 
 ## Dependencies
 
