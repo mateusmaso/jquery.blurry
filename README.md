@@ -1,7 +1,7 @@
 jquery.blurry
 =============
 
-This library is an extension for jQuery which allows to blurry images using canvas technology.
+This library is an extension for jQuery which allows blurring images using canvas technology.
 
 ## Features
 
