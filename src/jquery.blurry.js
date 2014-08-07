@@ -1,4 +1,14 @@
-(function($) {
+(function(root, factory) {
+
+  if (typeof exports !== 'undefined') {
+    if (typeof module !== 'undefined' && module.exports)
+      module.exports = factory(global.$);
+    exports = factory(global.$);
+  } else {
+    factory(root.$);
+  }
+
+}(this, function($) {
 
   $.fn.blurry = function(strength) {
     var image = $(this)[0];
@@ -23,4 +33,4 @@
     $(this).replaceWith(element);
   };
 
-})(jQuery);
+}));

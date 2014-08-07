@@ -1,4 +1,4 @@
-jquery.blurry
+jquery.blurry [![Build Status](https://travis-ci.org/mateusmaso/jquery.blurry.svg?branch=master)](https://travis-ci.org/mateusmaso/jquery.blurry)
 =============
 
 This library is an extension for jQuery which allows blurring images using canvas technology.
@@ -6,11 +6,11 @@ This library is an extension for jQuery which allows blurring images using canva
 ## Features
 
 * Convert image into canvas.
-* Smooth ```blurry``` function with strength control. 
+* Smooth ```blurry``` function with strength control.
 
 ## Dependencies
 
-* jquery.js (>= 2.0)
+* jquery.js (>= 2.1)
 
 ## Examples
 
